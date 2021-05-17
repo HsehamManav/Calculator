@@ -1,0 +1,39 @@
+table{
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+}
+
+.button{
+    height: 100px;
+    width: 100px;
+    background-color: #D8D9DB;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:50px;
+    color: black;
+}
+.clear{
+    height: 100px;
+    width: 204px;
+}
+.zero{
+    height: 100px;
+    width: 307px;
+}
+.op{
+    background-color: #DF974C;
+    color: white;
+}
+.out{
+    background-color: black;
+    height: 90px;
+}
+.output{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 60px;
+    text-align: right;
+}
